@@ -1,0 +1,1257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dot",
+				"imageDots"
+			],
+			[
+				"mosr",
+				"mostReaded"
+			],
+			[
+				"Sample",
+				"SampleComics"
+			],
+			[
+				"comics",
+				"comics:onPopulate"
+			],
+			[
+				"COmics",
+				"SampleComics"
+			],
+			[
+				"Admin",
+				"adminView"
+			],
+			[
+				"model",
+				"model"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"comic",
+				"comic"
+			],
+			[
+				"editions",
+				"editionsView"
+			],
+			[
+				"home",
+				"homeView"
+			],
+			[
+				"user",
+				"userView"
+			],
+			[
+				"charac",
+				"charactersView"
+			],
+			[
+				"edition",
+				"editionsView"
+			],
+			[
+				"genres",
+				"genresView"
+			],
+			[
+				"kill",
+				"killZombieView"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"show",
+				"showLogout"
+			],
+			[
+				"Comic",
+				"ComicCollection〔variable〕"
+			],
+			[
+				"switchTo",
+				"switchToWater()"
+			],
+			[
+				"switch",
+				"switchToWater()"
+			],
+			[
+				"water",
+				"WaterVehicle"
+			],
+			[
+				"setSp",
+				"setSpinDirection(aValue)"
+			],
+			[
+				"getPro",
+				"getPropulsionUnits()"
+			],
+			[
+				"Prope",
+				"Propeller(numberFins, spinDir)"
+			],
+			[
+				"propulsion",
+				"propulsionUnitAt	(?)"
+			],
+			[
+				"Pro",
+				"propulsionUnitAt"
+			],
+			[
+				"wheels",
+				"wheelsArray"
+			],
+			[
+				"propul",
+				"propulsionUnits	[]"
+			],
+			[
+				"get",
+				"getSpeed()"
+			],
+			[
+				"propulsi",
+				"propulsionUnitAt(aPosition)"
+			],
+			[
+				"ge",
+				"getSpinDirection()"
+			],
+			[
+				"getA",
+				"getAcceleration()"
+			],
+			[
+				"set",
+				"setAfterBurner(aValue)"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"of",
+				"offsetHeight"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"str",
+				"strList	(?)"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"node",
+				"nodeName"
+			],
+			[
+				"elements",
+				"elements	(?)"
+			],
+			[
+				"toLo",
+				"toLowerCase()"
+			],
+			[
+				"toL",
+				"toLowerCase()"
+			],
+			[
+				"arr",
+				"arr	[]"
+			],
+			[
+				"s",
+				"slice(from, to?)"
+			],
+			[
+				"c",
+				"c	(num)"
+			],
+			[
+				"wi",
+				"whitout"
+			],
+			[
+				"nav",
+				"nav-element"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"widget",
+				"widget-box"
+			],
+			[
+				"left",
+				"left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"li",
+				"list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "custom_elements/post-card/post-card.html",
+			"settings":
+			{
+				"buffer_size": 486,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "custom_elements/post-card/card-style.css",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/router.js",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"trimmer",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Polymer/custom_elements/post-card/style.css",
+		"/C/Users/facundo.pomar/Desktop/avatar.jpg",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Polymer/js/router.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Polymer/css/style.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Polymer/js/routing.js",
+		"/C/Users/facundo.pomar/Desktop/prueba-html5template.html",
+		"/C/Users/facundo.pomar/Desktop/prueba-html5template-html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/app.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/views/views.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/collections/collections.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/models/models.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/json/comics.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/json/users.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/css/style.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/css/dashboard.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/routers/routers.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/bootstrap/css/bootstrap.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/README.md",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/css/slide.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/lib/jquery.bxslider/readme.md",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/lib/jquery.bxslider/jquery.bxslider.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/lib/jquery.als-1.7.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/templates/login.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/json/create-data.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/js/views/views.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/comic-store.sublime-project",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Comic Store/comics.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/test.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/Comic Store/comics.json",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Comic Store/js/models/models.js",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Backbone/Pruebas/Estructura Basica/index.html",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Backbone/Pruebas/Estructura Basica/js/script.js",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Exercises-jquery-2015-02-19/Exercises-jquery/libs/script.js",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/Backbone/Pruebas/Estructura Basica/js/script",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/JS/OOP/index.html",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/JS/OOP/class.js",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/JS/OOP/testing.js",
+		"/C/Users/facundo.pomar/Documents/web-ui-2015/README.md",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OOP/class.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OOP/testing.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OOP/index.html",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OPP/testing.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OPP/index.html",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/OPP/class.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Firsts Applications/2/script.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Firsts Applications/1/colors.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Prototype/index.html",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Prototype/juego.js",
+		"/C/Users/facundo.pomar/Desktop/prueba.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Strings/7.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Strings/9.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/JS/Strings/11.js",
+		"/C/Users/facundo.pomar/Desktop/Resumen FINAL ING1.odt",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Prototype/juego.js",
+		"/C/Users/facundo.pomar/Documents/practicas web-ui-2015/web-ui-2015/README.md",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Prototype/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/pruebas.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/Exercises-jquery-2015-02-19/Exercises-jquery/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/Exercises-jquery-2015-02-19/Exercises-jquery/css/style.css",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/Exercises-jquery-2015-02-19/Exercises-jquery/libs/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/Exercises-jquery-2015-02-19/Exercises-jquery/libs/jquery-1.5.0.js",
+		"/C/Users/facundo.pomar/AppData/Roaming/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/facundo.pomar/AppData/Roaming/Sublime Text 2/Packages/User/Autoprefixer.sublime-settings",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/5/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/5/style.css",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/5/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/7/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/7/style.css",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/7/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4 bis/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4 bis/style.css",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4 bis/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4/style.css",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/4/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/ejecutable.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/12.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/11.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/10.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/9.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/8.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/7.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/6.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Loops/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Loops/ejecutable.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/3/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/3/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/2/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/2/script.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/1/colors.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Firsts Applications/1/index.html",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/5.js",
+		"/C/Users/facundo.pomar/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/3.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Strings/1.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/6.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/7.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/5.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/3.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/1.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Functions/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/6.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/5.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/3.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Arrays/1.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Loops/3.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Loops/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Loops/1.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/5.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/7.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/6.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Statements if and switch/1.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Variables and expressions/5.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Variables and expressions/4.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Variables and expressions/3.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Variables and expressions/2.js",
+		"/C/Users/facundo.pomar/Desktop/Practicas WEB UI 2015/JS/Variables and expressions/1.js",
+		"/C/Users/facundo.pomar/Desktop/HTML/Practica 1/12/style.css",
+		"/C/Users/facundo.pomar/Desktop/HTML/Practica 1/12/index.html",
+		"/C/Users/facundo.pomar/Desktop/HTML/Practica 1/11/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\Comic Store",
+			"C:\\Users\\facundo.pomar\\Documents\\web-ui-2015\\Comic Store\\json"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"killZombieView",
+			"Comic",
+			"login",
+			"ComicOptions",
+			"home",
+			"console.",
+			"comic:",
+			"comic:s",
+			"sidebar",
+			"console",
+			"ampleComicsView",
+			"ampleComic",
+			"SlideComics",
+			"brand",
+			"sidebar",
+			"bg",
+			"sidebar",
+			"bx-prev",
+			"vertical",
+			" slideMargin",
+			"demo4",
+			"console",
+			"this.name",
+			"name",
+			"tr",
+			"none",
+			"hidden",
+			"mylist",
+			"nav",
+			"more",
+			"footer",
+			"profile",
+			"content",
+			"nav",
+			"logo",
+			"container",
+			"widget-box",
+			"form",
+			"entry",
+			"navbo",
+			"content",
+			"main",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1116,
+								1116
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "custom_elements/post-card/post-card.html",
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "custom_elements/post-card/card-style.css",
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/router.js",
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}

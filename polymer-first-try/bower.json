@@ -1,0 +1,13 @@
+{
+  "name": "Polymer",
+  "version": "(0.0.1)",
+  "authors": [
+    "FacundoPomar <facundopomar@hotmail.com>"
+  ],
+  "description": "Prueba en el Uso de Polymer",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
